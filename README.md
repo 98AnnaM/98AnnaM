@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Anna. I am an engineer with 4 years of experience working with multinational teams, developing engineering projects for different countries.
+- 👋 Hi, I’m Anna. I am a civil engineer with 4 years of experience working with multinational teams, developing engineering projects for different countries.
 - 🌱 I recently graduated in Java Web Development from SoftUni (Software University - softuni.bg), mastering Java, MySQL, Hibernate, Spring Boot, and Spring Data JPA.
 - 🔧 Key Skills: Java, MySQL, Hibernate, Spring Boot, Spring Data JPA.
 - 🚀 Currently exploring new technologies and seeking opportunities as a junior Java developer.
