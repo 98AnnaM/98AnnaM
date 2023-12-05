@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m Anna. I am an engineer with 4 years of experience working with multinational teams, developing engineering projects for different countries.
+- 🌱 I recently graduated in Java Web Development from SoftUni (Software University - softuni.bg), mastering Java, MySQL, Hibernate, Spring Boot, and Spring Data JPA.
+- 🔧 Key Skills: Java, MySQL, Hibernate, Spring Boot, Spring Data JPA.
+- 🚀 Currently exploring new technologies and seeking opportunities as a junior Java developer.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/annamileva/)
+- 💻 Check out my last coding project on [GitHub](https://github.com/98AnnaM/recipe-website-project).
+
+
 <!--
 **98AnnaM/98AnnaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
