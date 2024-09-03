@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Anna. I am a civil engineer with 4 years of experience working with multinational teams, developing engineering projects for different countries.
-- 🌱 I recently graduated in Java Web Development from SoftUni (Software University - softuni.bg), mastering Java, Spring Boot, Spring Data JPA, Hibernate, MySQL.
+- 👋 Hi, I’m Anna. I am a junior Java developer at Paysafe.
+- 🌱 I completed an internship program at Devexoerts after graduating Java Web Development at SoftUni (Software University - softuni.bg), mastering Java, Spring Boot, Spring Data JPA, Hibernate, MySQL.
 - 🔧 Key Skills: Java, Spring Boot, Spring Data JPA, MySQL, Hibernate.
-- 🚀 Currently exploring new technologies and seeking opportunities as a junior Java developer.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/annamileva/)
 - 💻 Check out my last coding project on [GitHub](https://github.com/98AnnaM/recipe-website-project).
 
